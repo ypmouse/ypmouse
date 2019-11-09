@@ -1,0 +1,34 @@
+{
+
+"name": "Yusuf Pawit Hartanto", //string
+"age": "22", //number
+"address": "Perum Bukit Sawangan Indah", //string
+"hobbies": ["Gaming", "Watching Anime", "Reading Comics", "Basketball",], //array
+"is_married": false, //boolean
+"list_school": 
+[
+	{
+		"name": "SMAN 1 Ciseeng",
+		"year_in": "2012",
+		"year_out": "2015",
+		"major": "IPA",
+	},
+
+	{
+		"name": "Universitas Bina Sarana Informatika",
+		"year_in": "2015",
+		"year_out": "2018",
+		"major": "Diploma III Sistem Informasi",
+	},
+], //array of object
+"skills":
+[
+	{
+		"skill_name": "Web Development",
+		"level": "beginner",
+	},
+], //array of object
+
+"interest_in_coding": true, //boolean
+
+}
